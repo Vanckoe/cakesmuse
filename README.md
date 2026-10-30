@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Cakes Muse
 
-## Getting Started
+Проект лендинга кондитерского бутика Cakes Muse в Астане.
 
-First, run the development server:
+Сейчас подготовлены исследование, структура страницы и визуальная концепция. Приложение пока содержит стартовую страницу Next.js.
+
+## Документация
+
+Все исследования, рекомендации и материалы для ИИ собраны в [папке docs](docs/README.md).
+
+- [Ассортимент и цены](docs/01-business-research.md)
+- [Стратегия лендинга](docs/02-landing-strategy.md)
+- [Визуальное направление](docs/03-art-direction.md)
+- [Структура страницы](docs/04-page-structure.md)
+- [Контент и фотографии](docs/05-content-and-assets.md)
+- [Задание для ИИ](docs/06-ai-handoff.md)
+- [Архитектура React и рекомендации по вёрстке Tailwind](docs/07-layout-guidelines.md)
+
+Перед изменениями также прочитайте [AGENTS.md](AGENTS.md).
+
+## Локальный запуск
+
+Менеджер пакетов — Bun. Версия указана в `package.json`.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+bun install
+bun run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Откройте [localhost:3000](http://localhost:3000). Главная страница — `src/app/page.tsx`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Проверки и сборка
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+bun run lint
+bun run build
+```
 
-## Learn More
+Запуск production-сборки после успешной сборки:
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+bun run start
+```
