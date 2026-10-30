@@ -1,0 +1,235 @@
+{
+  "collectedOn": "2026-10-30",
+  "owner": "cakes.muse",
+  "policy": "Only media from Cakes Muse Instagram, as instructed by user. No stock, third-party or AI-generated product photos. Video not used.",
+  "entries": [
+    {
+      "file": "public/images/collection.webp",
+      "source": "https://www.instagram.com/cakes.muse/reel/DfBiFVCtusF/",
+      "originalFilename": "860871248_1150308714289773_7334251137827609191_n.jpg",
+      "originalSha256": "673b4cf354c700f444799d38e903aa682a16d8ad8c02f059675e311851f14882",
+      "outputSha256": "48a7ad3bca6f5866feb9c5070ab9866c3591c9b14f0d75c247ed66507b2a70be",
+      "transform": "Original reel cover; resize without enlargement; WebP quality 88; display crop via object-fit."
+    },
+    {
+      "file": "public/images/wedding.webp",
+      "source": "https://www.instagram.com/cakes.muse/reel/DfCF06cRXm-/",
+      "originalFilename": "868630389_18092127062693491_1215710943420386135_n.jpg",
+      "originalSha256": "5b04ff265f100c0be3c257723ecf122ef3dfb3e68ac64b6dc8d0c3c6add91e9d",
+      "outputSha256": "de343cd68bbc187ca4f0184b72f1721192ab65e838c414e7ab54c18270276dfe",
+      "transform": "Original reel cover; resize without enlargement; WebP quality 88; display crop via object-fit."
+    },
+    {
+      "file": "public/images/pastries.webp",
+      "source": "https://www.instagram.com/cakes.muse/reel/De_jd_tx-4B/",
+      "originalFilename": "867618940_18091953935693491_7210387748336924368_n.jpg",
+      "originalSha256": "c5c0cd757823b86260611b7f51c2ea378ddb1907851b0412a6b3ac936b605d59",
+      "outputSha256": "ed3a42e60e63e710a08ade9b9d8f6af9e3e2f0da1e000dcb91690869e1d452e1",
+      "transform": "Original reel cover; resize without enlargement; WebP quality 88; display crop via object-fit."
+    },
+    {
+      "file": "public/images/cakes.webp",
+      "source": "https://www.instagram.com/cakes.muse/reel/De6aH1DR3ya/",
+      "originalFilename": "865117436_18091575605693491_3796808976177220972_n.jpg",
+      "originalSha256": "6a75e700baa9cd29e52c20b471385a9121d467ddddfaa45b7269424c99d910b2",
+      "outputSha256": "befee6c25db1202088c535be6ab1a6d811b64a7812fd2c5828d07a0a579caaff",
+      "transform": "Original reel cover; resize without enlargement; WebP quality 88; display crop via object-fit."
+    },
+    {
+      "file": "public/images/mini-box.webp",
+      "source": "https://www.instagram.com/cakes.muse/reel/Dei_J70xDJu/",
+      "originalFilename": "857105862_18090596366693491_8412928573051711391_n.jpg",
+      "originalSha256": "d1fd129262f5e1f4ff8abfecede7a80ac0dffd9edeca4a72ffe9994b87710218",
+      "outputSha256": "f15afd134625ca121c673da55cf619124f7b03d7bcc1d1e79f735901cf6d5993",
+      "transform": "Original reel cover; resize without enlargement; WebP quality 88; display crop via object-fit."
+    },
+    {
+      "file": "public/images/event.webp",
+      "source": "https://www.instagram.com/cakes.muse/reel/DellXSKRXrQ/",
+      "originalFilename": "856546678_18090596330693491_8481178662579676415_n.jpg",
+      "originalSha256": "485a3ca0e5a2b77fa8373554ee7c6b485fc61a40056b323b782f717c92d6ad28",
+      "outputSha256": "fc688d9a7889cce88d26d8d18f0a3f28c4af1b87136faec7dd133c617e5a7d9c",
+      "transform": "Original reel cover; resize without enlargement; WebP quality 88; display crop via object-fit."
+    },
+    {
+      "file": "public/images/cards/mango.webp",
+      "originalFile": "public/images/cards/mango.jpg",
+      "source": "https://www.instagram.com/stories/highlights/17960390717969447/",
+      "originalFilename": "758280628_18077650769693491_5534102534956819710_n.jpg",
+      "originalSha256": "93779d064c79f1bd711336de14fc8cb6a7040bd03154f74ba8a29437cce8ea68",
+      "outputSha256": "fe541d2566cd838922b6181667c760ce52b9c3d4f4b40b4ff4b24c2bbd07621d",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/coconut.webp",
+      "originalFile": "public/images/cards/coconut.jpg",
+      "source": "https://www.instagram.com/stories/highlights/17960390717969447/",
+      "originalFilename": "758444937_18077650760693491_6668235300869016510_n.jpg",
+      "originalSha256": "32e869b349180a03d640191ce54f0a631f573ddf0aa1b6483a940a90268b8d82",
+      "outputSha256": "2362c6c22ba354e765166ba496fffadf0e9796021d793160094a7f02b8a682ba",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/raspberry.webp",
+      "originalFile": "public/images/cards/raspberry.jpg",
+      "source": "https://www.instagram.com/stories/highlights/17960390717969447/",
+      "originalFilename": "758264508_18077650778693491_8193400330359330334_n.jpg",
+      "originalSha256": "4c50534e43484d620d54eee3608c318d4367565dc717517b8c219213dc9f2f7a",
+      "outputSha256": "0bb86796204315ee8a3fb16fdeec018877ae21ffbb87b74b9421c0b3ccecc0a5",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/coffee.webp",
+      "originalFile": "public/images/cards/coffee.jpg",
+      "source": "https://www.instagram.com/stories/highlights/17960390717969447/",
+      "originalFilename": "756535839_18077650787693491_3009402991965944522_n.jpg",
+      "originalSha256": "b4b2e77c66b54573a2a1582672ca50315886af46c4219b26057a4759b0b7d5fc",
+      "outputSha256": "a8f923ea7248c2441958f178d5ac8d67268ec34c07e2ef4bbaa1a0a42f14fe11",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/pistachio.webp",
+      "originalFile": "public/images/cards/pistachio.jpg",
+      "source": "https://www.instagram.com/stories/highlights/17960390717969447/",
+      "originalFilename": "758350337_18077650799693491_2865408287493104768_n.jpg",
+      "originalSha256": "9fe30c17924f70d13dfcbe9603427a27cb3914d44a2950d12f4d6a296541a82c",
+      "outputSha256": "06cbdf9ead2111c289d1b88b6e141472dfdd6319cc6da908f8309fa5bb86bb71",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/vanilla.webp",
+      "originalFile": "public/images/cards/vanilla.jpg",
+      "source": "https://www.instagram.com/stories/highlights/17960390717969447/",
+      "originalFilename": "758386936_18077650808693491_825714860997424746_n.jpg",
+      "originalSha256": "6c3ea40f60d2266705c06d44d88fb2ed3debb0491905baf6b9f815ae237b5d63",
+      "outputSha256": "9db266d2be1df319eee5896876b8475f5f4ee5ea6bf96899c9041ad40c18d82f",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/cherry.webp",
+      "originalFile": "public/images/cards/cherry.jpg",
+      "source": "https://www.instagram.com/stories/highlights/17960390717969447/",
+      "originalFilename": "756589996_18077650820693491_1408593962567398020_n.jpg",
+      "originalSha256": "b03d6dfc793dc4b77875cae7d346b96001d5323fdac6cca544eda0dd82b67c45",
+      "outputSha256": "8ffe284b2d4d7f0a34eeed31384e59c7353e3f84aad1a3f7c48943d7831478b9",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/strawberry.webp",
+      "originalFile": "public/images/cards/strawberry.jpg",
+      "source": "https://www.instagram.com/stories/highlights/17960390717969447/",
+      "originalFilename": "756641393_18077650829693491_976457584259433130_n.jpg",
+      "originalSha256": "2f26b7d0d8f7ca3f77cc36cc37667ac951e4707f44688aa9e6b32ee7a5781181",
+      "outputSha256": "d579c357fbabd8f4d840e454cca81bd4a51c57f93e428f3953a02aea00c6288f",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/passionfruit.webp",
+      "originalFile": "public/images/cards/passionfruit.jpg",
+      "source": "https://www.instagram.com/stories/highlights/17960390717969447/",
+      "originalFilename": "756603857_18077650835693491_665781663010181900_n.jpg",
+      "originalSha256": "8e94aedd8d5c39e25aa3dc104f8ec90fef3e58595b6e7f56077310cd2e863448",
+      "outputSha256": "1c19170952f847b09c90cffd4bf01ca5d2f166266e054b77f235e7101470616a",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/blueberry.webp",
+      "originalFile": "public/images/cards/blueberry.jpg",
+      "source": "https://www.instagram.com/stories/highlights/17960390717969447/",
+      "originalFilename": "756526433_18077650856693491_1067866140995670572_n.jpg",
+      "originalSha256": "c7639850c89e4c888e030aa1b094c83b14784e28f6aa9862231c173db0cc5a88",
+      "outputSha256": "a2f2b183bc38b1909b3ed568e22eaaf80a310fdb15c6b2e3689b105f997ee7c7",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/apricot.webp",
+      "originalFile": "public/images/cards/apricot.jpg",
+      "source": "https://www.instagram.com/stories/highlights/17960390717969447/",
+      "originalFilename": "756442216_18077650865693491_4064555989219115841_n.jpg",
+      "originalSha256": "2d206fe3bb05207f6a3deee1d96eca55f11704bae111ceddc434b73d0f90bc81",
+      "outputSha256": "41cc7a0d1852272f20c3f08aa846636e2aa9f601f4ff33633c94341adf62f1de",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/peanut.webp",
+      "originalFile": "public/images/cards/peanut.jpg",
+      "source": "https://www.instagram.com/stories/highlights/17960390717969447/",
+      "originalFilename": "758263489_18077650883693491_7580474032079516869_n.jpg",
+      "originalSha256": "407dd8925105fb05b35fc118ca141c41f524298bdabc16db4da21b8d2caf5380",
+      "outputSha256": "4c474aa3cc96ae19b305fb67999662d71c0070ed943d8edc576320e9b265de8a",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/pecan.webp",
+      "originalFile": "public/images/cards/pecan.jpg",
+      "source": "https://www.instagram.com/stories/highlights/17960390717969447/",
+      "originalFilename": "758252911_18077650874693491_7035392711628497793_n.jpg",
+      "originalSha256": "c83f19c687b325a5a4bb78e70c25f79e03a2b1cf22bea9b88268f91bf13d954f",
+      "outputSha256": "4824376148dd10e6574dfa0b6876c38354f247fb4094890ff951166c42a83f03",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/cake-0.webp",
+      "originalFile": "public/images/cards/cake-0.jpg",
+      "source": "https://www.instagram.com/stories/highlights/18098844766853643/",
+      "originalFilename": "753205133_18076891631693491_1683330033647373304_n.jpg",
+      "originalSha256": "86d4cf07b7ec3c6cc19ccd849a7bf0d24d3d039bc71c8380b971535a7b431c43",
+      "outputSha256": "d2f317dc9de382eaf539b2281907f4f2c54eaf61f7a1c3504d047437cfa032c2",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/cake-1.webp",
+      "originalFile": "public/images/cards/cake-1.jpg",
+      "source": "https://www.instagram.com/stories/highlights/18098844766853643/",
+      "originalFilename": "753396818_18076891586693491_661297506161326192_n.jpg",
+      "originalSha256": "a6cf0b416bd57a434e222a2928e60f508ec8e43c4d1b4a96c9b568c5006f0fee",
+      "outputSha256": "513fcf7cfb925ae7f32d586368956ffc2ca96251d213ae45f682f2f013650970",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/cake-2.webp",
+      "originalFile": "public/images/cards/cake-2.jpg",
+      "source": "https://www.instagram.com/stories/highlights/18098844766853643/",
+      "originalFilename": "752648807_18076891580693491_2223490303635725234_n.jpg",
+      "originalSha256": "267abfcd13760e729dcb57d4c9a860f343aa6b105042458b82e57baa85a17ee3",
+      "outputSha256": "a455e5c408d2d59e33f7b645458e1f4b5dd36a9075995fc576f5ae1c82b5ec63",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/cake-3.webp",
+      "originalFile": "public/images/cards/cake-3.jpg",
+      "source": "https://www.instagram.com/stories/highlights/18098844766853643/",
+      "originalFilename": "753105443_18076891598693491_4545156165444457976_n.jpg",
+      "originalSha256": "bef64408d6e15ad82f5072c00540b63d564ec7e57d79f47583c9f473c21ec7e0",
+      "outputSha256": "61446b0642a2e1749db6f86e7c6c73a8cf63c1743493e2a920b2097b3213e749",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/cake-4.webp",
+      "originalFile": "public/images/cards/cake-4.jpg",
+      "source": "https://www.instagram.com/stories/highlights/18098844766853643/",
+      "originalFilename": "752845899_18076891610693491_2971362003790195619_n.jpg",
+      "originalSha256": "7c67ae7a1c914459049a55f8f23a15ec354516bb48802b4f3008141991218115",
+      "outputSha256": "e488e98e3f492b6f17f2fba51cc0bcfcba1ea244e548d4d9b9cd70899826a698",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/cake-5.webp",
+      "originalFile": "public/images/cards/cake-5.jpg",
+      "source": "https://www.instagram.com/stories/highlights/18098844766853643/",
+      "originalFilename": "753197167_18076891619693491_5338449562602659408_n.jpg",
+      "originalSha256": "21949522cbbe049e3c1af46af364f040a4ff74836cefc521e187cae4d97e4dad",
+      "outputSha256": "0f30b07ddcbcea67c07d6283f7007da39a39a1493ad9ae75a0f534ad697f9f10",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    },
+    {
+      "file": "public/images/cards/bento.webp",
+      "originalFile": "public/images/cards/bento.jpg",
+      "source": "https://www.instagram.com/stories/highlights/18036632201228509/",
+      "originalFilename": "753204606_18076742861693491_7800110136105256138_n.jpg",
+      "originalSha256": "48735a1dc84022c357e8d2242d1ade2280400da7c7266ab40a032513fca74695",
+      "outputSha256": "4386f944fc8d965623d068f7e3d3983d1b08b15b4bc594a9e9461910fb9b0b13",
+      "transform": "Entire source card preserved. No extraction, cropping, overlays or generated pixels. WebP quality 95; exact original JPEG retained for full-size viewing."
+    }
+  ]
+}
